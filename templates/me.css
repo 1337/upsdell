@@ -1,0 +1,123 @@
+﻿html {
+    font-size:small;
+}
+body,a,p,td,h6,.speciala {
+    font-family: Arial,Tahoma,Verdana;
+}
+body {
+    background: url('http://www.kgv.edu.hk/upsdell/images/background.png') #57392B repeat-x fixed;
+    margin: 0px 0px 0px 0px;
+    /*font-size: 14px;*/
+}
+.bannerSpot { 
+    background: maroon url('http://www.kgv.edu.hk/upsdell/images/banner4.jpg');
+    padding: 98px 0px 12px 130px;
+    color: white;
+    font-size: large;
+}
+a {
+    color: #990000;
+    font-weight:400;
+}
+a:visited {
+    color: #990000;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: underline;
+    color: #990000;
+}
+a:hover {
+    color: #660000;
+    text-decoration: none;
+    background-color: #FFECEC;
+}
+a:active {
+    color: #990000;
+}
+p {
+    font-size:small;
+    color: #000000;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    font-weight:lighter;
+}
+ul {
+    list-style-image:url('../images/bullet.gif');
+}
+td {
+    /*font-size: 15px;*/
+    text-decoration: none;
+}
+hr {
+    color: #C0C0C0;
+    height: 1px;
+}
+h5 {
+    font:lighter 230%/0.95 'Trebuchet MS',Calibri,'Segoe UI',Arial,Tahoma,Verdana;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #DE3434;
+}
+h6 {
+    font-size: 17px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 6px;
+    color: #990000;
+}
+.posthidden {
+    display: none;
+}
+.postshown {
+    display: inline;
+    background-color: #FFECEC;
+}
+.speciala {
+    text-decoration: underline;
+    font-weight:normal;
+    color: #660000;
+}
+.speciala:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #FF0000;
+}
+.speciala:visited {
+    color: #FFFFFF;
+}
+.speciala:link {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+blockquote {
+    background-image: url("../images/qopenclose.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    border : 1px solid #EEDDDD;
+    padding: 10px;
+    /*font-size: 12px;*/
+}
+.dieunderlines {
+    text-decoration: none;
+}
+.img2 {
+    border: 1px solid #FFCCCC;
+    padding: 2px;
+}
+a .img2 {
+    border: 1px solid #FFCCCC;
+    padding: 2px;
+}
+a:hover .img2 {
+    border: 1px solid #FF0000;
+    padding: 2px;
+}
+
+div .PBody {
+     padding: 5px;
+     background-image: url("../images/watermark.png");
+}

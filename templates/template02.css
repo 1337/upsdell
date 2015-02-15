@@ -1,0 +1,111 @@
+﻿html {
+    font-size: smaller;
+}
+body {
+    margin: 0;
+    background: url('../images/upsdell0012.jpg') #FFF repeat-x fixed;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+#NaviB {
+    width:170px;
+    display:block;
+}
+#NaviB .normal {
+    margin-left:10px;
+    border:0px;
+    color:#C22;
+    width:150px;
+}
+#NaviB .normal:hover {
+    margin-left:10px;
+    background-color:#C22;
+    color:white;
+}
+#NaviB a {
+    padding: 3px 0px 3px 5px;
+    border-bottom:2px #C22 solid;
+    display: block;
+    width: 160px;
+    text-decoration: none;
+    color: #C22;
+    height: 18px;
+}
+#NaviB a:hover {
+    background-color:#C22;
+    color:white;
+}
+h5 {
+    font-size: 2em;
+    font-weight: 100;
+    color:#C22;
+    margin-top:8px;
+    margin-bottom:8px;
+}
+h6 {
+    font-size: 1.7em;
+    font-weight: 100;
+    margin-top:6px;
+    margin-bottom:6px;
+}
+a {
+    color: #C22;
+}
+a:visited {
+    color: #A00;
+}
+a:hover {
+    text-decoration: none;
+    color: #E22;
+}
+.specialLink {
+    font-weight: 900;
+    font-size: 1.2em;
+}
+.img2 {
+    border: 1px solid #FCC;
+    padding: 2px;
+}
+a .img2 {
+    border: 1px solid #FCC;
+    padding: 2px;
+}
+a:hover .img2 {
+    border: 1px solid #C22;
+    padding: 2px;
+}
+hr {
+    color: #C0C0C0;
+    height: 1px;
+}
+.posthidden {
+    display: none;
+}
+.postshown {
+    display: inline;
+    background-color: #FFECEC;
+}
+blockquote {
+    background-image: url("../images/qopenclose.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    border : 1px solid #EEDDDD;
+    padding: 10px;
+    /*font-size: 12px;*/
+}
+.dieunderlines {
+    text-decoration: none;
+}
+.bannerplace {
+    background: #FFF url('../images/gr.png') repeat-x;
+}
+.endofpage {
+    /*background-image: url('images/gr3.png');
+    background-repeat: no-repeat;
+    background-position: center top;*/
+}
+.documentbody {
+    background-color:white;
+}
+p {
+    margin:2px 0 0 0;
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="KGV Upsdell Website: supercedes Rowell, Nightingale and Crozier." />
+
+<script type="text/javascript" src="template03.js"></script>
+<link rel="stylesheet" type="text/css" href="generic5.css" />
+<title>Upsdell</title>
+<script type="text/javascript" src="imgbar.js"></script>
+</head>
+
+<body>
+
+<div class="iPageBody">
+    <p class="iMenuBar"><a href="../index.html">Home</a> |
+    <a title="Captains & Contacts" href="../captains/index.html">Captains</a> |
+    <a title="Events & Scores" href="../events/index.html">Events</a> |
+    <a href="../resources/index.html">Pictures &amp; Media</a> | <a href="../about/index.html">About Upsdell</a>
+    | <a href="../sitemap/index.html">Site Map</a><br />
+    <br />
+    Text Size:
+    <a style="cursor: pointer" onclick="javascript:document.getElementById('hmms').style.fontSize='small';">
+    A</a><span class="MedA"><a style="cursor: pointer" onclick="javascript:document.getElementById('hmms').style.fontSize='large';">A</a></span><span class="BigA"><a style="cursor: pointer" onclick="javascript:document.getElementById('hmms').style.fontSize='xx-large';">A</a></span><br />
+    Navigation: <a href="javascript:window.history.back(1)">Back</a></p>
+    <h1><span onclick="javascript:window.location.href='http://www.kgv.edu.hk/upsdell';" style="cursor:pointer"><img alt="" class="iBanner" src="../images/nothing.gif" /></span></h1>
+    <div id="hmms">
+        <!-- #BeginEditable "docBody" -->
+        <p>hi</p>
+        <!-- #EndEditable -->
+        </div>
+</div>
+<div class="iPageFooter">
+    <span style="text-align:right;float:right">Last updated: <script language="javascript" type="text/javascript">document.write(document.lastModified);</script></span>
+    &copy; 2008 Upsdell.
+    <a href="mailto:blai@kgv.net">Click here to</a> contact web captain (Brian Lai)</div>
+</body>
+
+</html>

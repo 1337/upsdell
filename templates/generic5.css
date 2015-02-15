@@ -1,0 +1,144 @@
+﻿html {
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: #AE2029;
+    background-image: url('../images/bbc.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    font-size: small;
+}
+h1 {
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+}
+h2 {
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+}
+h3 {
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+h4 {
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:#DC143C; /* Crimson */
+    font-weight: 500;
+}
+h5 {
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    background-color: #AE2029;
+    background-image: url('../images/bbc.jpg');
+    background-position: center center;
+    font-weight: lighter;
+    text-align:right;
+    font-size:25px;
+    padding:4px;
+    color: #FFFFFF; /*#DC143C;  Crimson */
+}
+h6 {
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+}
+a {
+    color: #AE2029;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: #505050;
+    /*border-bottom:1px silver dotted;*/
+}
+a .img2 {
+    border: 1px solid #FFCCCC;
+    padding: 2px;
+    filter:alpha(opacity=70);
+}
+a:hover .img2 {
+    border: 1px solid #AE2029;
+    padding: 2px;
+    filter:alpha(opacity=100);
+}
+blockquote {
+    background-image: url("../images/qopenclose.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    border : 1px solid #EEDDDD;
+    padding: 10px;
+}
+blockquote a {
+    font-weight:bold;
+}
+img {
+    border-width: 0px;
+}
+li {
+    list-style-type: square;
+}
+.iBanner {
+    width:166px;
+    height:72px;
+    background-image:url('../images/lgo.gif');
+    background-position: 5px 5px;
+    background-repeat:no-repeat;
+}
+.iPageBody {
+    background-color: #FFFFFF;
+    background-image:url('../images/moo2.jpg');
+    background-repeat:repeat-y;
+    border: 1px solid #C0C0C0;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 780px;
+}
+.iMenuBar {
+    float: right;
+    color: #292929;
+    font-weight: lighter;
+    position: relative;
+    padding: 2px;
+    text-align: right;
+}
+.iPageFooter {
+    display: block;
+    margin: 0 auto;
+    width: 780px;
+    font-size: small;
+    font-weight: 100;
+    color: #FFE4FF;
+    padding-bottom: 30px;
+}
+.iPageFooter a {
+    color: #FFE4FF;
+}
+.BigA {
+    font-size: large;
+    font-weight: 900;
+}
+.MedA {
+    font-size: medium;
+    font-weight: 700;
+}
+.dieunderlines {
+    text-decoration: none;
+}
+.img2 {
+    border: 1px solid #FFCCCC;
+    padding: 2px;
+}
+.posthidden {
+    display: none;
+}
+.postshown {
+    display: inline;
+    background-color: #FFECEC;
+}

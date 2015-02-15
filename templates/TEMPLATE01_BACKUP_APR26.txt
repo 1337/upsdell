@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Upsdell</title>
+<link rel="stylesheet" type="text/css" href="template03.css" />
+<script type="text/javascript" src="template03.js"></script>
+</head>
+
+<body>
+<div class="LoginSpot">
+    <form name="TargetForm" method="post" action="http://webmail.kgv.edu.hk/src/redirect.php" style="padding: 0; margin: 0;">
+        <fieldset style="border: none; padding: 0px">
+        <input type="hidden" name="just_logged_in" value="1" />
+        <input type="hidden" name="js_autodetect_results" value="0" />User name:
+        <input class="LoginField2" name="login_username" type="text" style="display: inline" />
+        Password:
+        <input class="LoginField2" name="secretkey" type="password" style="display: inline" />
+        <input onclick="postChange(1);" type="radio" name="LoginChoice" value="0" checked="checked" />Student
+        Email
+        <input onclick="postChange(2);" type="radio" name="LoginChoice" value="1" />LIONeL&nbsp;
+        <input type="submit" value="Login" class="LoginButton" /> </fieldset>
+        <!-- webmail -->
+    </form>
+</div>
+<div id="bannerID" class="banner" onmousemove="mnuShows(-1);" onclick="document.location.href='http://www.kgv.edu.hk/upsdell';">
+</div>
+<div class="menuBar">
+    <a href="../about" onmousemove="mnuShows(0);">About Upsdell</a>
+    <a href="../events" onmousemove="mnuShows(1);">Events</a>
+    <a href="../photos" onmousemove="mnuShows(2);">Photos</a>
+    <a href="../resources" onmousemove="mnuShows(3);">Goodies</a> </div>
+<div class="menus" id="leMenus">
+    <ul id="mnu0" style="display: block; visibility: hidden; left:0px">
+        <li><a href="../">Home</a></li>
+        <li><a href="../captains">House Captains</a></li>
+        <li><a href="../about">History of Upsdell</a></li>
+        <li><a href="../about/specs.htm">About the Web team</a></li>
+        <li><a href="../sitemap">Site map</a></li>
+    </ul>
+    <ul id="mnu1" style="left:130px">
+        <li><a href="../events/sports">Athletics</a></li>
+        <li><a href="../events/badminton">Badminton</a></li>
+        <li><a href="../events/gala">Cheerleading</a></li>
+        <li><a href="../events/chinese_chess">Chinese Chess</a></li>
+        <li><a href="../events/xcountry/">Cross Country</a></li>
+        <li><a href="../events/dance/">Dance</a></li>
+        <li><a href="../events/debating/">Debating</a></li>
+        <li><a href="../events/hockey">Hockey</a></li>
+        <li><a href="../events/music">Music</a></li>
+        <li><a href="../events/netball">Netball</a></li>
+        <li><a href="../events/gala">Swimming Gala</a></li>
+        <li><a href="../events/tabletennis">Table Tennis</a></li>
+        <li><a href="../events/volleyball">Volleyball</a></li>
+        <li><a href="../events/waterpolo">Waterpolo</a></li>
+    </ul>
+    <ul id="mnu2" style="left:260px">
+        <li><a href="../captains">Photos of Captains</a></li>
+        <li><a href="../events/gala">Swimming Gala</a></li>
+        <li><a href="../events/xcountry/">Cross Country</a></li>
+        <li><a href="../photos/music">Interhouse Music</a></li>
+        <li><a href="../photos/sports">Athletics</a></li>
+    </ul>
+    <ul id="mnu3" style="left:390px">
+        <li><a href="../resources/index.htm#posters">Posters</a></li>
+        <li><a href="../resources/index.htm#wallpapers">Wallpapers</a></li>
+    </ul>
+</div>
+<div class="PageBody" id="docBody" onmousemove="mnuShows(-1);">
+    <!-- #BeginEditable "docBody" -->
+    <p>Hello</p>
+    <!-- #EndEditable --></div>
+<div class="credits">
+    &copy; 2008 King George V School (<a href="http://ibo.org">An IB School</a>)<br />
+    Maintained by <a href="http://www.kgv.net/blai/">Brian Lai</a> -
+    <a href="../about/specs.htm">Site specs</a>.</div>
+</body>
+
+</html>

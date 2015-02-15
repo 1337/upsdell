@@ -1,0 +1,289 @@
+﻿.banner {
+    background: url("../images/banner5.jpg") white no-repeat;
+    height: 100px;
+    border-top: 1px silver solid;
+    cursor:pointer;
+}
+h5 {
+    font-weight: lighter;
+    font-size:2em;
+    color: #DC143C; /* Crimson */
+}
+h1 {
+    font-weight: lighter;
+    font-size:2em;
+    color: #550000;
+}
+h6 {
+    font-weight: lighter;
+    font-size:1.5em;
+}
+h2 {
+    font-weight: lighter;
+    font-size:1.5em;
+}
+h3 {
+    font-weight: lighter;
+}
+h4 {
+    border-bottom: 1px silver solid;
+    font-weight: lighter;
+}
+/*h5 {
+    border-bottom: 1px silver solid;
+    font-weight: lighter;
+    font-family: 'Century Gothic',Arial,Tahoma,Verdana,Sans Serif;
+}
+h6 {
+    border-bottom: 1px silver solid;
+    font-weight: lighter;
+    font-family: 'Century Gothic',Arial,Tahoma,Verdana,Sans Serif;
+}*/
+li {
+    list-style-type: square;
+}
+a {
+    color: #533;
+}
+a:visited {
+    color: #555;
+    text-decoration: underline;
+}
+a:link {
+    text-decoration: underline;
+    color: #A41;
+}
+a:hover {
+    text-decoration: none;
+    background-color: #EEE;
+    color: #555;
+}
+a:active {
+    color: #555;
+}
+img {
+    border-width: 0px;
+}
+.centered {
+    text-align: center;
+}
+.LoginField {
+    width: 120px;
+    border: 1px silver solid;
+    display: block;
+    margin: 0 auto auto 14px;
+    padding: 1px;
+}
+.LoginField2 {
+    width: 120px;
+    border: 1px silver solid;
+    display: block;
+    vertical-align: middle;
+}
+.LoginButton {
+    border: 1px silver solid;
+    background-color: #EEEEEE;
+}
+blockquote {
+    border: 1px silver solid;
+    padding: 5px;
+    font-family: 'Century Gothic',Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.Teflon {
+    width: 12px;
+    height: 12px;
+    cursor: pointer;
+}
+html {
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    overflow-x:hidden;
+}
+body {
+    background-color: #AE2029; /* Fire Engine Red */
+    margin: 0;
+    font-size: small;
+    overflow-x:hidden;
+}
+.PageBody {
+    background: white;
+    border-top: 1px silver solid;
+    display: block;
+    margin: 0 auto;
+    padding: 3px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.LoginSpot {
+    text-align: right;
+    padding: 3px;
+    color: white;
+}
+.menuBar {
+    color: #FFF;
+    background-color: #AE2029; /* Fire Engine Red */
+    border-top: 1px silver solid;
+    height: 24px;
+    font-family: Verdana, Helvetica, sans-serif;
+    text-align: center;
+}
+.menuBar a:link {
+    display: block;
+    float: left;
+    width: 130px;
+    height: 24px;
+    vertical-align: middle;
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 3px;
+}
+.menuBar a:visited {
+    display: block;
+    float: left;
+    width: 130px;
+    height: 24px;
+    vertical-align: middle;
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 3px;
+}
+.menuBar a {
+    display: block;
+    float: left;
+    width: 130px;
+    height: 24px;
+    vertical-align: middle;
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 3px;
+}
+.menuBar a:hover {
+    background-color: white;
+    color: #CE2029; /* Fire Engine Red */
+}
+.menus {
+    background: white;
+    padding: 5px;
+    padding-right: 10px;
+    border-bottom: 1px silver solid;
+    text-decoration: none;
+    display: none;
+    position:absolute;
+    width:99%;
+    margin: 0;
+    z-index: 1;
+}
+.menus li {
+    margin: 0;
+    list-style: none;
+    display: inline;
+}
+.menus ul {
+    margin: 0;
+    padding: 0 0 0 5px;
+    list-style: none;
+    display: none;
+    background-color: white;
+}
+.menus a:link {
+    display: inline-block;
+    line-height: 20px;
+    padding: 2px 3px 2px 2px;
+    border-left: 3px #AE2029 solid; /* Fire Engine Red */
+    text-decoration: none;
+    background-color: #FFF;
+}
+.menus a:visited {
+    display: inline-block;
+    line-height: 20px;
+    padding: 2px 3px 2px 2px;
+    border-left: 3px #AE2029 solid; /* Fire Engine Red */
+    text-decoration: none;
+    background-color: #FFF;
+}
+.menus a {
+    display: inline-block;
+    line-height: 20px;
+    padding: 2px 3px 2px 2px;
+    border-left: 3px #AE2029 solid; /* Fire Engine Red */
+    text-decoration: none;
+    background-color: #FFF;
+}
+.menus a:hover {
+    background: #AE2029; /* #CE2029; Fire Engine Red */
+    color: white;
+    text-decoration: none;
+}
+.credits {
+    margin-bottom: 0px;
+    color: white;
+    padding: 4px;
+    text-align: center;
+}
+.credits a:link {
+    color: #FFF;
+}
+.credits a:visited {
+    color: #FFF;
+}
+.credits a {
+    color: #FFF;
+}
+.credits a:hover {
+    color: black;
+}
+.posthidden {
+    display: none;
+}
+.postshown {
+    display: inline;
+    background-color: #FFECEC;
+}
+.speciala {
+    text-decoration: underline;
+    font-weight:normal;
+    color: #660000;
+}
+.speciala:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #FF0000;
+}
+.speciala:visited {
+    color: #FFFFFF;
+}
+.speciala:link {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+blockquote {
+    background-image: url("../images/qopenclose.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    border : 1px solid #EEDDDD;
+    padding: 10px;
+    /*font-size: 12px;*/
+}
+.dieunderlines {
+    text-decoration: none;
+}
+.img2 {
+    border: 1px solid #FFCCCC;
+    padding: 2px;
+}
+a .img2 {
+    border: 1px solid #FFCCCC;
+    padding: 2px;
+}
+a:hover .img2 {
+    border: 1px solid #FF0000;
+    padding: 2px;
+}
+
+div .PBody {
+     padding: 5px;
+     background-image: url("../images/watermark.png");
+}

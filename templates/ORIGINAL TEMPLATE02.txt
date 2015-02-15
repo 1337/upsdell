@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta name="Description" content="KGV Upsdell Website: supercedes Rowell, Nightingale and Crozier." />
+<title>Upsdell</title>
+<script type="text/javascript" src="http://www.kgv.edu.hk/upsdell/omg.js"></script>
+<style type="text/css">
+html {
+    font-size: smaller;
+}
+body {
+    margin: 0;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+#NaviB ul {
+    margin: 0 -20px 0 15px;
+    list-style: none;
+}
+#NaviB ul ul {
+    border-left: 2px #C22 solid;
+}
+#NaviB a {
+    padding: 3px 0px 3px 5px;
+    display: block;
+    width: 160px;
+    text-decoration: none;
+    color: maroon;
+    height: 18px;
+}
+#NaviB a:hover {
+    background-color: #C22;
+    color: white;
+}
+h5 {
+    font-size: 2em;
+    font-weight: 100;
+}
+h6 {
+    font-size: 1.7em;
+    font-weight: 100;
+}
+a {
+    color: #C22;
+}
+a:visited {
+    color: #A00;
+}
+a:hover {
+    text-decoration: none;
+    color: #E22;
+}
+.specialLink {
+    font-weight: 900;
+    font-size: 1.2em;
+}
+.img2 {
+    border: 1px solid #FCC;
+    padding: 2px;
+}
+a .img2 {
+    border: 1px solid #FCC;
+    padding: 2px;
+}
+a:hover .img2 {
+    border: 1px solid #C22;
+    padding: 2px;
+}
+</style>
+</head>
+
+<body>
+
+<div style="font-size: 4em; color: #C22; padding: 8px 15px 7px 15px; margin: 0; background: #FFF url('http://www.kgv.edu.hk/upsdell/images/gr.png') repeat-x fixed right center">
+    <span style="color: gray">kgv</span>upsdell</div>
+<div style="background: #900 url('http://www.kgv.edu.hk/upsdell/images/gr2.png') repeat-y fixed 100px center; color: white; padding: 4px; margin: 0; padding-left: 15px">
+    Upsdell House: King George V School, Hong Kong</div>
+<table style="width: 90%; margin: 0 auto; margin-top: 10px" cellpadding="0" cellspacing="0">
+    <tbody>
+    <tr style="padding-top: 10px;">
+        <td id="NaviB" style="width: 170px; vertical-align: top">
+        <ul style="margin: 0 0 0 5px;">
+            <li><a class="specialLink" href="http://www.kgv.edu.hk/upsdell">Home</a></li>
+            <li>
+            <a class="specialLink" href="http://www.kgv.edu.hk/upsdell/about">Who
+            are we?</a>
+            <ul>
+                <li><a href="http://www.kgv.edu.hk/upsdell/captains">Captains</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/about">History</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/about/specs.htm">Web
+                team</a></li>
+            </ul>
+            </li>
+            <li>
+            <a class="specialLink" href="http://www.kgv.edu.hk/upsdell/events">Events</a><ul>
+                <li><a href="http://www.kgv.edu.hk/upsdell/events/gala">Swimming
+                Gala</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/events/gala">Cheerleading</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/events/xcountry/">Cross
+                Country</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/events/debating/">Debating</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/events/music">Music</a></li>
+            </ul>
+            </li>
+            <li>
+            <a class="specialLink" href="http://www.kgv.edu.hk/upsdell/photos">Photos</a><ul>
+                <li><a href="http://www.kgv.edu.hk/upsdell/captains">of Captains</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/events/gala">Swimming
+                Gala</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/events/xcountry/">Cross
+                Country</a></li>
+                <li><a href="http://www.kgv.edu.hk/upsdell/photos/music">Music</a></li>
+            </ul>
+            </li>
+            <li>
+            <a class="specialLink" href="http://www.kgv.edu.hk/upsdell/resources">
+            Goodies</a><ul>
+                <li>
+                <a href="http://www.kgv.edu.hk/upsdell/resources/index.htm#posters">
+                Posters</a></li>
+                <li>
+                <a href="http://www.kgv.edu.hk/upsdell/resources/index.htm#wallpapers">
+                Wallpapers</a></li>
+            </ul>
+            </li>
+        </ul>
+        </td>
+        <td style="vertical-align: top; padding: 5px;">
+        <!-- #BeginEditable "docBody" -->
+        <p>Hello</p>
+        <!-- #EndEditable --></td>
+    </tr>
+    <tr style="padding-top: 10px; background: #FFF url('http://www.kgv.edu.hk/upsdell/images/gr3.png') no-repeat fixed center top">
+        <td style="vertical-align: top; text-align: center;" colspan="2">&copy; 2008
+        KGV <a href="http://www.kgv.net/blai">Upsdell web captain</a></td>
+    </tr>
+</tbody>
+</table>
+
+</body>
+
+</html>
